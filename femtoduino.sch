@@ -1099,7 +1099,7 @@
 <part name="C2" library="eagle-book" deviceset="CAP_TANT" device="" value="10uF"/>
 <part name="C3" library="eagle-book" deviceset="CAP_TANT" device="" value="10uF"/>
 <part name="C4" library="eagle-book" deviceset="CAP" device="_0603" value="0.1uF"/>
-<part name="LED1" library="eagle-book" deviceset="LED" device="_0603" value="amber"/>
+<part name="LED1" library="eagle-book" deviceset="LED" device="_0603" value="AMBER"/>
 <part name="U2" library="eagle-book" deviceset="ATMEGA328P" device="-AU"/>
 <part name="Y1" library="eagle-book" deviceset="CSTCE" device="" value="16MHz"/>
 <part name="SUPPLY9" library="eagle-book" deviceset="GND" device=""/>
